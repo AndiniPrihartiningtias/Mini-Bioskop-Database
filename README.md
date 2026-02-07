@@ -43,6 +43,9 @@ Tahapan normalisasi meliputi:
 
 Dokumentasi proses normalisasi disajikan dalam bentuk tabel pada file:
 normalization/normalisasi_erd.xlsx
+note: File normalisasi.xlsx berisi dokumentasi proses normalisasi
+database dari UNF hingga 3NF dan dapat diunduh untuk dilihat.
+
 
 ---
 
