@@ -41,10 +41,8 @@ Tahapan normalisasi meliputi:
 - Third Normal Form (3NF)
 
 Dokumentasi proses normalisasi disajikan dalam bentuk tabel pada file:
-normalization/normalisasi_erd.xlsx
+normalization/normalisasi_erd.xlsx , dapat diunduh untuk dilihat.
 
-note: File normalisasi.xlsx berisi dokumentasi proses normalisasi
-database dari UNF hingga 3NF dan dapat diunduh untuk dilihat.
 
 
 ---
